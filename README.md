@@ -1,4 +1,4 @@
-# HarvestGuard — Phase 1 Skeleton
+# QuantumLatch — Phase 1 Skeleton
 
 This is the very first working piece: a terminal and a server talking to
 each other over a socket, with a hardcoded PIN check. No cryptography yet —
